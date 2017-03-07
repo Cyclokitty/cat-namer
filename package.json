@@ -1,0 +1,14 @@
+{
+  "name": "cat-namer",
+  "version": "1.0.0",
+  "description": "random cat names",
+  "main": "src/cat-namer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laura Veee <droolaquarium@gmail.com> (https://cyclokitty.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
