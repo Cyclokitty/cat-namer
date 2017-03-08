@@ -3,5 +3,5 @@ const catNames = require('./cat-names.json');
 
 module.exports = {
   all: catNames,
-  random: randomPick(catNames)
+  random: randomPick(catNames),
 }
