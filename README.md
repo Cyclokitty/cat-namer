@@ -15,3 +15,31 @@ WELL HERE YOU GO!
 Cat-namer will give you a randomly chosen cat name that will make your cat purr with happiness.
 
 Try it and watch your new cat blossom with pride!
+
+# To install:
+```
+
+npm install cat-namer --save
+
+```
+
+# To run:
+```
+
+var cat = require('cat-namer');
+
+```
+
+# To list all cat names in json:
+```
+
+cat.all;
+
+```
+
+# For a random cat name:
+```
+
+cat.random();
+
+```
