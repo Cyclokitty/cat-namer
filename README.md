@@ -6,6 +6,6 @@
 WELL HERE YOU GO!
 =================
 
-Cat-namer will help you with a randomly chosen cat name that guarantees your cat will be proud of it's new name.
+Cat-namer will give you a randomly chosen cat name that will make your cat purr with happiness.
 
 Try it and watch your new cat blossom with pride!
